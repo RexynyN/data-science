@@ -1,3 +1,6 @@
+
+# Training data extensions that should be completely rejected
+# (GitHub is such a dork that it doesn't let me use as much disk space as I want)
 **/*.jpg
 **/*.jpeg
 **/*.png
@@ -5,5 +8,9 @@
 **/*.webp
 **/*.zip
 **/*.svg
+**/*.mp4
+**/*.webm
+**/*.
 
+# Just to be sure
 /data
