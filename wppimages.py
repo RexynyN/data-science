@@ -1,10 +1,11 @@
 from tensorflow.keras.models import load_model
+from tkinter.filedialog import askdirectory
 import numpy as np
 import os
 import cv2
 import tensorflow as tf
 
-path = r"C:\Users\Admin\Desktop\WhatsApp Images"
+path = askdirectory(mustexist=True)
 
 # import the model from file
 model = load_model(os.path.join('models', 'MemoryGarbageModel.h5'))
