@@ -14,7 +14,7 @@ window.getData = () => {
             whole = item.getElementsByClassName("a-price-whole")[0].innerText;      
             fraction = item.getElementsByClassName("a-price-fraction")[0].innerText;
         } catch (error) {
-            whole = "00,";
+            whole = "-01,";
             fraction = "00";
         }
 
