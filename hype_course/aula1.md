@@ -53,7 +53,12 @@ A lista até pode ser pequena de desvantagens, mas não deixe se enganar, em lar
 **Lembre-se: Em programação não existe uma solução milagrosa para seus problemas, estude os casos de uso de uma linguagem antes de usá-la em um projeto.**
 
 
-Tudo isso para dizer: pelo amor de deus, parem de usar Python pra fazer jogos e aplicativos mobile e aprendam uma outra linguagem de programação, eu imploro. 
+Tudo isso para dizer: pelo amor de deus parem de usar Python pra fazer jogos e aplicativos mobile, e aprendam uma outra linguagem de programação, eu imploro. 
+
+## Preparação de um Ambiente Python
+
+**TODO**
+
 
 ## Referências (em ordem de aparição)
 
