@@ -33,13 +33,3 @@ for file in os.listdir(path):
     else:
         print("This image is garbage")
         os.rename(img_path, join(path, "garbage", file))
-
-# import os
-# import random
-
-# rand = 523
-# while rand != 0:    
-#     files = os.listdir("poop")
-#     choose = files[random.randint(0, len(files) - 1)]
-#     os.rename(os.path.join("poop", choose), os.path.join("garbage", choose))
-#     rand -= 1

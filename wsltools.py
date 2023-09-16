@@ -17,7 +17,6 @@ def start():
 def exit():
     global mode
     mode = "DEFAULT"
-    __select_sys()
 
 def __select_sys():
     global mount
