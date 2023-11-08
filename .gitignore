@@ -4,12 +4,20 @@
 
 *.csv
 *.png
+*.jpg
+*.webp
+*.svg
 *.jpeg
 *.mp3
 *.mp4
 *.gif
 *.wav
 *.pkl
+
+
+# Models can get quite massive, discard them
+*.pb
+*.h5
 
 
 # Byte-compiled / optimized / DLL files
