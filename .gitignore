@@ -1,8 +1,6 @@
 # Custom
-*/data
 */img_data
 
-*.csv
 *.png
 *.jpg
 *.webp
@@ -12,12 +10,11 @@
 *.mp4
 *.gif
 *.wav
-*.pkl
-
 
 # Models can get quite massive, discard them
 *.pb
 *.h5
+*.pkl
 
 
 # Byte-compiled / optimized / DLL files
