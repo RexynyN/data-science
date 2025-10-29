@@ -15,7 +15,9 @@
 *.pb
 *.h5
 *.pkl
-
+*.db 
+*.csv
+tmp/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

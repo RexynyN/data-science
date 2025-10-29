@@ -28,9 +28,6 @@ function downloadBlob(blob) {
     document.body.removeChild(link);
 }
 
-
-
-
 async function getBlobs(){
     // A Thread.sleep lookalike
     async function sleep(msec){
